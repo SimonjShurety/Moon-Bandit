@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moon-Bandit
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in the world
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
